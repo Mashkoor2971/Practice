@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC73-4F1A
+
+ Directory of C:\Users\mindtreedec263\Desktop\My Project
+
+10-03-2022  09:41    <DIR>          .
+10-03-2022  09:41    <DIR>          ..
+10-03-2022  09:41                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  114,601,189,376 bytes free
